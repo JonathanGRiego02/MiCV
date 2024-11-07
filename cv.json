@@ -1,0 +1,25 @@
+{
+  "titulos": [],
+  "experiencias": [],
+  "habilidades": [],
+  "contacto": {
+    "nacionalidades": [],
+    "emails": [
+      {
+        "direccion": "jonathangrclases@gmail.com"
+      }
+    ],
+    "webs": []
+  },
+  "personal": {
+    "identificacion": "12345678Z",
+    "nombre": "Jonathan",
+    "apellidos": "Gutierrez",
+    "fechaNacimiento": "2002-12-21",
+    "direccion": null,
+    "codigoPostal": null,
+    "localidad": null,
+    "pais": "España",
+    "nacionalidades": []
+  }
+}
